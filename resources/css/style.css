@@ -1,7 +1,11 @@
 * {
   background-color: black;
   font-family: Verdana, sans-serif;
+}
+
+body {
   text-align: center;
+  color: white;
 }
 
 h1 {
@@ -9,25 +13,23 @@ h1 {
   font-size: 50px;
 }
 
-h2 {
-  font-weight: 300;
-  font-size: 42px;
-}
-
 a {
   color: Aquamarine;
   font-size: 16px;
 }
 
-body {
-  color: white;
+h2 {
+  font-weight: 300;
+  font-size: 42px;
 }
 
-#gray-text {
+footer {
+  text-align: right;
   color: gray;
   font-size: 21px;
 }
 
-#footer {
-  text-align: right !important;
+.gray-text {
+  color: gray;
+  font-size: 21px;
 }
