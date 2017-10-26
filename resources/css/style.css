@@ -5,12 +5,29 @@
 }
 
 h1 {
-  color: white;
   font-weight: normal;
   font-size: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
 }
 
 a {
   color: Aquamarine;
   font-size: 16px;
+}
+
+body {
+  color: white;
+}
+
+#gray-text {
+  color: gray;
+  font-size: 21px;
+}
+
+#footer {
+  text-align: right !important;
 }
